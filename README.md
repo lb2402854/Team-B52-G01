@@ -3,10 +3,10 @@
 ## Team Members and Scrum Responsibilities
 | Team Member | GitHub Username | Scrum Responsibility |
 |---|---|---|
-| [Name] | lb2402854 | [Developers] |
-| [Name] | aishaalkubaisi31 | [Scrum Master] |
-| [Name] | Danakha123 | [Product Owner] |
-| [Name] | ha2402656 | [Developers] |
+| Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
+| Dana | Danakha123 | Product Owner |
+| Hissa Al-Jefairi | ha2402656 | Developers |
+| Lolwa Mahdi | lb2402854 | Developers |
 
 ## GitHub Project
 https://github.com/users/lb2402854/projects/5/views/1
