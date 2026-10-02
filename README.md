@@ -1,5 +1,16 @@
 # PearlMart
 
+## Team Members and Scrum Responsibilities
+| Team Member | GitHub Username | Scrum Responsibility |
+|---|---|---|
+| [Name] | lb2402854 | [Developers] |
+| [Name] | aishaalkubaisi31 | [Scrum Master] |
+| [Name] | Danakha123 | [Product Owner] |
+| [Name] | ha2402656 | [Developers] |
+
+## GitHub Project
+https://github.com/users/lb2402854/projects/5/views/1
+
 ## Sprint Goals
 
 ### Sprint 1 Goal
