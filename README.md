@@ -16,5 +16,20 @@ https://github.com/users/lb2402854/projects/5/views/1
 ### Sprint 1 Goal
 Complete the system analysis foundation by developing the DFD levels and Use Case Diagram, comparing the models, and establishing Scrum responsibilities.
 
+## Sprint 1 Progress
+### Current Progress
+- Create Level 0 Context DFD (#1): Done
+- Create Level 1 DFD (#2): In Review
+- Create Level 2 DFD (#3): In Progress
+- Create Use Case Diagram (#4): In Progress
+- Compare DFD and Use Case Diagram (#5): Todo
+- Set Up README and Scrum Responsibilities (#14): Todo
+
+### Sprint Review
+Sprint 1 review will be completed at the end of Sprint 1 after the planned work has been reviewed.
+
+### Sprint Retrospective
+Sprint 1 retrospective will be completed at the end of Sprint 1 to document what went well, what could be improved, and actions for the next sprint.
+
 ### Sprint 2 Goal
 Complete detailed system design documentation through use case specifications, design class modeling, design responsibilities and OO principles, assumptions, and requirements traceability.
