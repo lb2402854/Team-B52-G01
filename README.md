@@ -32,7 +32,7 @@ Work is considered Done when:
 
 Complete the system analysis foundation by developing the DFD levels and Use Case Diagram, comparing the models, and establishing Scrum responsibilities.
 
-**Sprint 1 Dates:** September 26 – October 4, 2026  
+**Sprint 1 Dates:** September 21 – October 4, 2026  
 **Review Checkpoint:** October 2, 2026
 
 ### Sprint 1 Progress
@@ -57,8 +57,8 @@ Sprint 1 retrospective will be completed at the end of Sprint 1 to document what
 
 Complete detailed system design documentation through use case specifications, design class modeling, design responsibilities and OO principles, assumptions, and requirements traceability.
 
-**Sprint 2 Dates:** October 5 – October 13, 2026  
-**Review Checkpoint:** October 11, 2026
+**Sprint 2 Dates:** October 5 – October 18, 2026  
+**Review Checkpoint:** October 16, 2026
 
 ### Sprint 2 Planned Work
 
