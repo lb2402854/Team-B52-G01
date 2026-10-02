@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Visual Paradigm temporary/backup files
+*.vpp.lck
+*.vpp.bak_*
