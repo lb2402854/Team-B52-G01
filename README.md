@@ -11,7 +11,7 @@
 
 ## GitHub Project
 
-https://github.com/users/lb2402854/projects/5/views/1
+[PearlMart Milestone 1 GitHub Project](https://github.com/users/lb2402854/projects/5/views/1)
 
 ## Product Goal
 
@@ -20,6 +20,7 @@ Design a consistent and complete software solution for the PearlMart Inventory M
 ## Definition of Done
 
 Work is considered Done when:
+
 - It satisfies the relevant project requirements and acceptance criteria.
 - It is reviewed by a teammate.
 - Any identified corrections have been completed.
@@ -35,23 +36,30 @@ Complete the system analysis foundation by developing the DFD levels and Use Cas
 **Sprint 1 Dates:** September 21 – October 4, 2026  
 **Review Checkpoint:** October 2, 2026
 
-### Sprint 1 Progress
+### Sprint 1 Work
 
-#### Current Progress
-- Create Level 0 Context DFD (#1): Done
-- Create Level 1 DFD (#2): In Review
-- Create Level 2 DFD (#3): In Progress
-- Create Use Case Diagram (#4): In Progress
-- Compare DFD and Use Case Diagram (#5): Todo
-- Set Up README and Scrum Responsibilities (#14): Todo
+- Create Level 0 Context DFD (#1)
+- Create Level 1 DFD (#2)
+- Create Level 2 DFD (#3)
+- Create Use Case Diagram (#4)
+- Compare DFD and Use Case Diagram (#5)
+- Set Up README and Scrum Responsibilities (#14)
 
 ### Sprint 1 Review
 
-Sprint 1 review will be completed at the end of Sprint 1 after the planned work has been reviewed. The review will summarize completed work, feedback received, and any remaining work.
+During Sprint 1, the team established the system analysis foundation by developing the DFD levels, Use Case Diagram, and initial Scrum project setup. The team reviewed the developed artifacts to identify inconsistencies, missing information, and corrections required before proceeding to the detailed system design work in Sprint 2.
+
+Some work required additional revision and review to maintain consistency between the different analysis artifacts. Any unfinished or revised work continued through the team's GitHub workflow so that it could be reviewed before being considered complete.
 
 ### Sprint 1 Retrospective
 
-Sprint 1 retrospective will be completed at the end of Sprint 1 to document what went well, difficulties encountered, what could be improved, and an improvement action to be applied during Sprint 2.
+During Sprint 1, the team identified that coordinating work across multiple members and maintaining consistency between related models required more frequent communication and review. Since several project artifacts depend on one another, changes made to one model could affect other parts of the project.
+
+The team decided that Sprint 2 should include earlier peer review and more frequent consistency checks between related artifacts. The team also aimed to use consistent terminology throughout the diagrams and documentation and to ensure that work was reviewed by another team member before being considered complete.
+
+**Sprint 2 Improvement Action:** Conduct earlier peer reviews and consistency checks before marking related artifacts as Done.
+
+---
 
 ## Sprint 2 Goal
 
@@ -60,21 +68,27 @@ Complete detailed system design documentation through use case specifications, d
 **Sprint 2 Dates:** October 5 – October 18, 2026  
 **Review Checkpoint:** October 16, 2026
 
-### Sprint 2 Planned Work
+### Sprint 2 Progress
 
-- Develop Use Case Specification 1 (#6)
-- Develop Use Case Specification 2 (#7)
-- Develop Use Case Specification 3 (#8)
-- Develop Use Case Specification 4 (#9)
-- Develop Design Class Diagram (#10)
-- Explain Design Responsibilities and OO Principles (#11)
-- Create Assumptions Table (#12)
-- Create Requirements Traceability Table (#13)
+- Develop Use Case Specification 1 (#6): Done
+- Develop Use Case Specification 2 (#7): Done
+- Develop Use Case Specification 3 (#8): Done
+- Develop Use Case Specification 4 (#9): Done
+- Develop Design Class Diagram (#10): In Review
+- Explain Design Responsibilities and OO Principles (#11): Todo
+- Create Assumptions Table (#12): Todo
+- Create Requirements Traceability Table (#13): Todo
+
+### Sprint 2 Application of Sprint 1 Improvement
+
+During Sprint 2, the team applied the improvement identified during the Sprint 1 retrospective by reviewing related artifacts earlier and checking their consistency before completion. In particular, the team used branches and pull requests to support peer review and revisions before merging completed work into the main branch.
+
+This helped the team identify and correct inconsistencies while the work was still in progress rather than waiting until the final submission stage.
 
 ### Sprint 2 Review
 
-Sprint 2 review will be completed at the end of Sprint 2 after the planned work has been reviewed. It will summarize completed work, feedback received, and any remaining work.
+The Sprint 2 review will be completed at the end of Sprint 2. The team will review the completed use case specifications, design class model, design responsibility and object-oriented principle explanations, assumptions, and requirements traceability. The review will summarize completed work, feedback received, corrections made, and any remaining work required before the final Milestone 1 submission.
 
 ### Sprint 2 Retrospective
 
-Sprint 2 retrospective will be completed at the end of Sprint 2. It will summarize difficulties encountered, improvements made, and how the improvement action identified during the Sprint 1 retrospective was applied in Sprint 2.
+The Sprint 2 retrospective will be completed at the end of Sprint 2. It will summarize what went well, difficulties encountered, improvements made during the sprint, and the effectiveness of the improvement action identified during the Sprint 1 retrospective.
