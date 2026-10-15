@@ -2,12 +2,12 @@
 
 ## Team Members and Scrum Responsibilities
 
-| Team Member | GitHub Username | Scrum Responsibility |
-|---|---|---|
-| Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
-| Dana | Danakha123 | Product Owner |
-| Hissa Al-Jefairi | ha2402656 | Developer |
-| Lolwa Mahdi | lb2402854 | Developer |
+| QUID | Team Member | GitHub Username | Scrum Responsibility |
+|---|---|---|---|
+202303962 | Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
+202104732 | Al-Dana Al-Yafei | Danakha123 | Product Owner |
+202402656 | Hissa Al-Jefairi | ha2402656 | Developer |
+202402854 | Lolwa Mahdi | lb2402854 | Developer |
 
 ## GitHub Project
 
