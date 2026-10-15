@@ -5,7 +5,7 @@
 | Team Member | GitHub Username | Scrum Responsibility |
 |---|---|---|
 | Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
-| Dana | Danakha123 | Product Owner |
+| Al-Dana Al-Yafei | Danakha123 | Product Owner |
 | Hissa Al-Jefairi | ha2402656 | Developer |
 | Lolwa Mahdi | lb2402854 | Developer |
 
