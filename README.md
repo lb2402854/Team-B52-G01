@@ -4,10 +4,10 @@
 
 | QUID | Team Member | GitHub Username | Scrum Responsibility |
 |---|---|---|---|
-202303962 | Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
-202104732 | Al-Dana Al-Yafei | Danakha123 | Product Owner |
-202402656 | Hissa Al-Jefairi | ha2402656 | Developer |
-202402854 | Lolwa Mahdi | lb2402854 | Developer |
+| 202303962 | Aisha Al-Kubaisi | aishaalkubaisi31 | Scrum Master |
+| 202104732 | Al-Dana Al-Yafei | Danakha123 | Product Owner |
+| 202402656 | Hissa Al-Jefairi | ha2402656 | Developer |
+| 202402854 | Lolwa Mahdi | lb2402854 | Developer |
 
 ## GitHub Project
 
@@ -63,21 +63,22 @@ The team decided that Sprint 2 should include earlier peer review and more frequ
 
 ## Sprint 2 Goal
 
-Complete detailed system design documentation through use case specifications, design class modeling, design responsibilities and OO principles, assumptions, and requirements traceability.
+Complete detailed system design documentation through use case specifications, design class modeling, design responsibilities and OO principles, assumptions, requirements traceability, and DFD balancing.
 
 **Sprint 2 Dates:** October 5 – October 18, 2026  
 **Review Checkpoint:** October 16, 2026
 
 ### Sprint 2 Progress
 
-- Develop Use Case Specification 1 (#6): Done
-- Develop Use Case Specification 2 (#7): Done
-- Develop Use Case Specification 3 (#8): Done
-- Develop Use Case Specification 4 (#9): Done
-- Develop Design Class Diagram (#10): In Review
-- Explain Design Responsibilities and OO Principles (#11): Todo
-- Create Assumptions Table (#12): Todo
-- Create Requirements Traceability Table (#13): Todo
+- Develop Use Case Specification 1 (#6): In Progress
+- Develop Use Case Specification 2 (#7): In Progress
+- Develop Use Case Specification 3 (#8): In Progress
+- Develop Use Case Specification 4 (#9): In Review
+- Develop Design Class Diagram (#10): Done
+- Explain Design Responsibilities and OO Principles (#11): In Progress
+- Create Assumptions Table (#12): In Progress
+- Create Requirements Traceability Table (#13): In Progress
+- DFD Balancing (#21): In Progress
 
 ### Sprint 2 Application of Sprint 1 Improvement
 
@@ -87,7 +88,9 @@ This helped the team identify and correct inconsistencies while the work was sti
 
 ### Sprint 2 Review
 
-The Sprint 2 review will be completed at the end of Sprint 2. The team will review the completed use case specifications, design class model, design responsibility and object-oriented principle explanations, assumptions, and requirements traceability. The review will summarize completed work, feedback received, corrections made, and any remaining work required before the final Milestone 1 submission.
+The Sprint 2 review will be completed at the end of Sprint 2. The team will review the use case specifications, design class model, design responsibility and object-oriented principle explanations, assumptions, requirements traceability, and DFD balancing checklist.
+
+The review will summarize completed work, feedback received, corrections made, and any remaining work required before the final Milestone 1 submission.
 
 ### Sprint 2 Retrospective
 
