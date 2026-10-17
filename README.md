@@ -27,6 +27,8 @@ Work is considered Done when:
 - It is consistent with the other project artifacts and agreed terminology.
 - The final version is saved in the appropriate project files and repository.
 
+---
+
 # Sprint Goals
 
 ## Sprint 1 Goal
@@ -38,12 +40,12 @@ Complete the system analysis foundation by developing the DFD levels and Use Cas
 
 ### Sprint 1 Work
 
-- Create Level 0 Context DFD (#1)
-- Create Level 1 DFD (#2)
-- Create Level 2 DFD (#3)
-- Create Use Case Diagram (#4)
-- Compare DFD and Use Case Diagram (#5)
-- Set Up README and Scrum Responsibilities (#14)
+- Create Level 0 Context DFD (#1): Done
+- Create Level 1 DFD (#2): Done
+- Create Level 2 DFD (#3): Done
+- Create Use Case Diagram (#4): Done
+- Compare DFD and Use Case Diagram (#5): Done
+- Set Up README and Scrum Responsibilities (#14): Done
 
 ### Sprint 1 Review
 
@@ -70,28 +72,44 @@ Complete detailed system design documentation through use case specifications, d
 
 ### Sprint 2 Progress
 
-- Develop Use Case Specification 1 (#6): In Progress
-- Develop Use Case Specification 2 (#7): In Progress
-- Develop Use Case Specification 3 (#8): In Progress
-- Develop Use Case Specification 4 (#9): In Review
+- Develop Use Case Specification 1 (#6): Done
+- Develop Use Case Specification 2 (#7): Done
+- Develop Use Case Specification 3 (#8): Done
+- Develop Use Case Specification 4 (#9): Done
 - Develop Design Class Diagram (#10): Done
-- Explain Design Responsibilities and OO Principles (#11): In Progress
-- Create Assumptions Table (#12): In Progress
-- Create Requirements Traceability Table (#13): In Progress
-- DFD Balancing (#21): In Progress
+- Explain Design Responsibilities and OO Principles (#11): Done
+- Create Assumptions Table (#12): Done
+- Create Requirements Traceability Table (#13): Done
+- DFD Balancing (#21): Done
 
 ### Sprint 2 Application of Sprint 1 Improvement
 
-During Sprint 2, the team applied the improvement identified during the Sprint 1 retrospective by reviewing related artifacts earlier and checking their consistency before completion. In particular, the team used branches and pull requests to support peer review and revisions before merging completed work into the main branch.
+During Sprint 2, the team applied the improvement identified during the Sprint 1 retrospective by reviewing related artifacts earlier and checking their consistency before completion.
 
-This helped the team identify and correct inconsistencies while the work was still in progress rather than waiting until the final submission stage.
+The team used separate branches and pull requests to manage contributions, review changes, and make corrections before merging work into the main branch.
+
+This helped the team identify inconsistencies between related diagrams and documentation while the work was still in progress.
 
 ### Sprint 2 Review
 
-The Sprint 2 review will be completed at the end of Sprint 2. The team will review the use case specifications, design class model, design responsibility and object-oriented principle explanations, assumptions, requirements traceability, and DFD balancing checklist.
+During Sprint 2, the team completed the four use case specifications, design class diagram, explanation of design responsibilities and object-oriented principles, assumptions table, requirements traceability table, and DFD balancing checklist.
 
-The review will summarize completed work, feedback received, corrections made, and any remaining work required before the final Milestone 1 submission.
+The completed work was organized and uploaded to the GitHub repository. The team also updated the project board to reflect the completion of all assigned tasks.
+
+The team checked the consistency of the different project artifacts, including the DFD levels, use case diagram, use case specifications, and design class diagram. Corrections were made where necessary to maintain consistent terminology and system requirements.
+
+By the end of Sprint 2, all planned tasks were marked as Done on the GitHub Project board, and the team prepared the completed work for the Milestone 1 submission.
 
 ### Sprint 2 Retrospective
 
-The Sprint 2 retrospective will be completed at the end of Sprint 2. It will summarize what went well, difficulties encountered, improvements made during the sprint, and the effectiveness of the improvement action identified during the Sprint 1 retrospective.
+During Sprint 2, the team improved its coordination by using GitHub Issues, branches, and pull requests to organize and track individual contributions.
+
+One of the main challenges was maintaining consistency between related project artifacts. Changes to diagrams sometimes required updates to other diagrams or sections of the report.
+
+The team addressed this by reviewing related work, discussing necessary corrections, and updating the affected artifacts before finalizing them.
+
+The improvement action from Sprint 1, which focused on earlier peer reviews and consistency checks, helped the team manage these dependencies more effectively.
+
+For future milestones, the team aims to continue reviewing related artifacts throughout each sprint, maintain clear communication, and complete reviews earlier to allow enough time for corrections.
+
+**Sprint 2 Improvement Action:** Continue early peer reviews and consistency checks, and allow additional time for final integration and testing of project artifacts.
